@@ -32,71 +32,71 @@ Relying on years of industry experience transforming deep learning research into
 - Discover 50+ practical tips for maximizing model accuracy and speed, debugging, and scaling to millions of users
 
 ## Chapter List
-[**Chapter 1 - Exploring the Landscape of Artificial Intelligence**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-1) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch01.html)
+[**Chapter 1 - Exploring the Landscape of Artificial Intelligence**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-1) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch01.html) | [Figures](figures/chapter-1)
 
 We take a tour of this evolving landscape, from 1950s till today, and analyze the ingredients that make for a perfect deep learning recipe, get familiar with common AI terminology and datasets, and take a peek into the world of responsible AI.
 
-[**Chapter 2 - What’s in the Picture: Image Classification with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-2) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch02.html)
+[**Chapter 2 - What’s in the Picture: Image Classification with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-2) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch02.html) | [Figures](figures/chapter-2)
 
 We delve into the world of image classification in a mere five lines of Keras code. We then learn what neural networks are paying attention to while making predictions by overlaying heatmaps on videos. Bonus: we hear the motivating personal journey of **François Chollet**, the creator of Keras, illustrating the impact a single individual can have.
 
-[**Chapter 3 - Cats versus Dogs: Transfer Learning in 30 Lines with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-3) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch03.html)
+[**Chapter 3 - Cats versus Dogs: Transfer Learning in 30 Lines with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-3) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch03.html) | [Figures](figures/chapter-3)
 
 We use transfer learning to reuse a previously trained network on a new custom classification task to get near state-of-the-art accuracy in a matter of minutes. We then slice and dice the results to understand how well is it classifying. Along the way, we build a common machine learning pipeline, which is repurposed throughout the book. Bonus: we hear from **Jeremy Howard**, co-founder of fast.ai, on how hundreds of thousands of students use transfer learning to jumpstart their AI journey.
 
-[**Chapter 4 - Building a Reverse Image Search Engine: Understanding Embeddings**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-4) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html)
+[**Chapter 4 - Building a Reverse Image Search Engine: Understanding Embeddings**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-4) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html) | [Figures](figures/chapter-4)
 
 Like Google Reverse Image Search, we explore how one can use embeddings—a contextual representation of an image to find similar images in under ten lines. And then the fun starts when we explore different strategies and algorithms to speed this up at scale, from thousands to several million images, and making them searchable in microseconds.
 
-[**Chapter 5 - From Novice to Master Predictor: Maximizing Convolutional Neural Network Accuracy**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-5) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch05.html)
+[**Chapter 5 - From Novice to Master Predictor: Maximizing Convolutional Neural Network Accuracy**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-5) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch05.html) | [Figures](figures/chapter-5)
 
 We explore strategies to maximize the accuracy that our classifier can achieve, with the help of a range of tools including TensorBoard, What-If Tool, tf-explain, TensorFlow Datasets, AutoKeras, AutoAugment. Along the way, we conduct experiments to develop an intuition of what parameters might or might not work for your AI task.
 
-[**Chapter 6 - Maximizing Speed and Performance of TensorFlow: A Handy Checklist**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-6) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch06.html)
+[**Chapter 6 - Maximizing Speed and Performance of TensorFlow: A Handy Checklist**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-6) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch06.html) | [Figures](figures/chapter-6)
 
 We take the speed of training and inference into hyperdrive by going through a checklist of 30 tricks to reduce as many inefficiencies as possible and maximize the value of your current hardware.
 
-[**Chapter 7 - Practical Tools, Tips, and Tricks**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-7) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch07.html)
+[**Chapter 7 - Practical Tools, Tips, and Tricks**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-7) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch07.html) | [Figures](figures/chapter-7)
 
 We diversify our practical skills in a variety of topics and tools, ranging from installation, data collection, experiment management, visualizations, keeping track of the state-of-the-art in research all the way to exploring further avenues for building the theoretical foundations of deep learning.
 
-[**Chapter 8 - Cloud APIs for Computer Vision: Up and Running in 15 Minutes**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-8) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch08.html)
+[**Chapter 8 - Cloud APIs for Computer Vision: Up and Running in 15 Minutes**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-8) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch08.html) | [Figures](figures/chapter-8)
 
 Work smart, not hard. We utilize the power of cloud AI platforms from Google, Microsoft, Amazon, IBM and Clarifai in under 15 minutes. For tasks not solved with existing APIs, we then use custom classification services to train classifiers without coding. And then we pit them against each other in an open benchmark, you might be surprised who won.
 
-[**Chapter 9 - Scalable Inference Serving on Cloud with TensorFlow Serving and KubeFlow**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-9) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch09.html)
+[**Chapter 9 - Scalable Inference Serving on Cloud with TensorFlow Serving and KubeFlow**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-9) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch09.html) | [Figures](figures/chapter-9)
 
 We take our custom trained model to the cloud/on-premises to scalably serve from tens to millions of requests. We explore Flask, Google Cloud ML Engine, TensorFlow Serving, and KubeFlow, showcasing the effort, scenario, and cost-benefit analysis.
 
-[**Chapter 10 - AI in the Browser with TensorFlow.js and ml5.js**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-10) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch10.html)
+[**Chapter 10 - AI in the Browser with TensorFlow.js and ml5.js**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-10) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch10.html) | [Figures](figures/chapter-10)
 
 Every single individual who uses a computer or a smartphone uniformly has access to one software program—their browser. Reach all those users with browser-based deep learning libraries including TensorFlow.js and ml5.js. Guest author **Zaid Alyafeai** walks us through techniques and tasks such as body pose estimation, generative adversarial networks (GANs), image-to-image translation with Pix2Pix and more, running not on a server but in the browser itself. Bonus: Hear from TensorFlow.js and ml5.js teams on how the projects incubated.
 
-[**Chapter 11 - Real-Time Object Classification on iOS with Core ML**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-11) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch11.html)
+[**Chapter 11 - Real-Time Object Classification on iOS with Core ML**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-11) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch11.html) | [Figures](figures/chapter-11)
 
 We explore the landscape of deep learning on mobile, with a sharp focus on the Apple ecosystem with Core ML. We benchmark models on different iPhones, investigate strategies to reduce app size and energy impact, dynamic model deployment, training on device, and how professional apps are built.
 
-[**Chapter 12 - Not Hotdog on iOS with Core ML and Create ML**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-12) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch12.html)
+[**Chapter 12 - Not Hotdog on iOS with Core ML and Create ML**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-12) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch12.html) | [Figures](figures/chapter-12)
 
 Silicon Valley’s Not Hotdog app (from HBO) is considered the “Hello World” of mobile AI, so we pay tribute by building a real-time version in not one, not two, but three different ways.
 
-[**Chapter 13 - Shazam for Food: Developing Android Apps with TensorFlow Lite and ML Kit**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-13) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch13.html)
+[**Chapter 13 - Shazam for Food: Developing Android Apps with TensorFlow Lite and ML Kit**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-13) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch13.html) | [Figures](figures/chapter-13)
 
 We bring AI to Android with the help of TensorFlow Lite. We then look at cross-platform development using ML Kit (which is built on top of TensorFlow Lite) and Fritz to explore the end-to-end development life cycle for building a self-improving AI app. Along the way we look at model versioning, A/B testing, measuring success, dynamic updates, model optimization, and other topics. Bonus: We get to hear about **Pete Warden’s** (technical lead for Mobile and Embedded TensorFlow) rich experience in bringing AI to edge devices.
 
-[**Chapter 14 - Building the Purrfect Cat Locator App with TensorFlow Object Detection API**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-14) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch14.html)
+[**Chapter 14 - Building the Purrfect Cat Locator App with TensorFlow Object Detection API**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-14) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch14.html) | [Figures](figures/chapter-14)
 
 We explore four different methods for locating the position of objects within images. We take a look at the evolution of object detection over the years, and analyze the tradeoffs between speed and accuracy. This builds the base for case studies such as crowd counting, face detection, and autonomous cars.
 
-[**Chapter 15 - Becoming a Maker: Exploring Embedded AI at the Edge**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-15) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch15.html)
+[**Chapter 15 - Becoming a Maker: Exploring Embedded AI at the Edge**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-15) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch15.html) | [Figures](figures/chapter-15)
 
 Guest author Sam Sterckval brings deep learning to low-power devices as he showcases a range of AI-capable edge devices with varying processing power and cost including Raspberry Pi, NVIDIA Jetson Nano, Google Coral, Intel Movidius, PYNQ-Z2 FPGA, opening the doors for robotics and maker projects. Bonus: Hear from the **NVIDIA Jetson Nano team** on how people are building creative robots quickly from their open-sourced recipe book.
 
-[**Chapter 16 - Simulating a Self-Driving Car using End-to-End Deep Learning with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-16) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch16.html)
+[**Chapter 16 - Simulating a Self-Driving Car using End-to-End Deep Learning with Keras**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-16) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch16.html) | [Figures](figures/chapter-16)
 
 Using the photorealistic simulation environment of Microsoft AirSim, guest authors **Aditya Sharma** and **Mitchell Spryn** guide us in training a virtual car by driving it first within the environment and then teaching an AI model to replicate its behavior. Along the way, this chapter covers a number of concepts that are applicable in the autonomous car industry.
 
-[**Chapter 17 - Building an Autonomous Car in Under an Hour: Reinforcement Learning with AWS DeepRacer**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-17) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch17.html)
+[**Chapter 17 - Building an Autonomous Car in Under an Hour: Reinforcement Learning with AWS DeepRacer**](https://github.com/practicaldl/Practical-Deep-Learning-Book/tree/master/code/chapter-17) | [Read online](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch17.html) | [Figures](figures/chapter-17)
 
 Moving from the virtual to the physical world, guest author **Sunil Mallya** showcases how AWS DeepRacer, a miniature car, can be assembled, trained and raced in under an hour. And with the help of reinforcement learning, the car learns to drive on its own, penalizing mistakes and maximizing success. We learn how to apply this knowledge to races from the Olympics of AI Driving to RoboRace (using full-sized autonomous cars). Bonus: Hear from **Anima Anandkumar (NVIDIA)** and **Chris Anderson (founder of DIY Robocars)** on where the self-driving automotive industry is headed.
 
